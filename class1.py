@@ -2,15 +2,6 @@
 # a=input("enter the name")
 # print(a)
 # print(7 | 9)
-# print(8*"*")
-# print(7*"*")
-# print(6*"*")
-# print(5*"*")
-# print(4*"*")
-
-# print(3*"*")
-# print(2*"*")
-# print(1*"*")
 
 # print(bin(~20))
 
@@ -54,12 +45,4 @@
 #     print(i,"is present in the list")  # prints numbers from 1 through 13
 #     if i==5:
 #         print("number is available")
-
-
-
-f
-
-
-
-
 
