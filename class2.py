@@ -53,11 +53,45 @@
 #     i += 1  # Increment i to avoid an infinite loop
 
 #jump statement
+# count=0
+# for i in range(0,20):
+#     count +=1
+#     if i>=7:
+#         # break
+#         continue
+#     print(i)
+#     print("count",count)
+    
+# for i in range(0,20):
+#     if i>=7:
+#             print(i)
+#     break   
+#         # continue
 
-# i=0
-# while i<20:
+# for i in range(0,20):
 #     print(i)
-#     if i==5:
-    # break
-#     print(i)
-#     i += 1
+#     continue
+# print(i)
+    
+# num1 = int(input("enter the number:"))
+# if num1 %2==0:
+#     print("even")
+    
+#     pass
+# else:
+#     print("num1 is odd")
+      
+# Nested loops:
+# bill=int(input("Enter the units :")) 
+# if bill<= 350:
+#     if bill<100:
+#         print("you will get",bill*2)
+#     else:
+#         print("Bill is",bill*10,"RS")
+# else:
+#     print("Bill is",bill*20,"RS")
+    
+# for i in range(0,10):
+#     for j in range(0,50):
+#         print(i,j)  
+# # Print the current values of i and j
